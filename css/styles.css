@@ -1,7 +1,9 @@
 .bg-box {
-    width: 9999px;
-    height: 9000px;
-    background: url(../img/pole-zelen-trava-dom-derevya.png);
+    width: 2000px;
+    height: 1000px;
+    background-image: url(../img/pole-zelen-trava-dom-derevya.png), url(../img/trava.png), url(../img/);
     background-repeat: no-repeat;
     background-color: green;
+    background-position: center;
+    
 }
