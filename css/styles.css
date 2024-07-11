@@ -1,1 +1,13 @@
-.bg:
+.bg-box {
+    width: 1200px;
+   margin: 0 auto;
+   padding: 0 15px;
+   outline: 1px solid red;
+   padding-top: 200px;
+   padding-bottom: 200px;
+   background-color: green;
+   background-image: url(../img/pole-zelen-trava-dom-derevya.png), url(../img/trava.png), url(../img/esh.png), url(../img/lampa.png), url(../img/ponchik.png);
+   background-repeat: no-repeat, repeat-x, repeat-y, repeat-x, repeat-y;
+   background-position: center, bottom, left, top, right;
+   background-size: 400px, 200px, 50px, 50px, 50px;
+}
